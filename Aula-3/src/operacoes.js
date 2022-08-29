@@ -5,7 +5,7 @@ const Calculadora = {
     soma(num) {
         const validateNum = validate({ num },  CalculadoraConstraint.calculadoraConstraint);      
         if(validateNum !== undefined ){
-            return 'Error';
+            return 'Entrada inválida';
         }
         return num + num;
     },
@@ -13,7 +13,7 @@ const Calculadora = {
     subtraction(num) {
         const validateNum = validate({ num },  CalculadoraConstraint.calculadoraConstraint);      
         if(validateNum !== undefined ){
-            return 'Error';
+            return 'Entrada inválida';
         }
         return num - 2;
     },
@@ -21,7 +21,7 @@ const Calculadora = {
     multiplication(num) {
         const validateNum = validate({ num },  CalculadoraConstraint.calculadoraConstraint);      
         if(validateNum !== undefined ){
-            return 'Error';
+            return 'Entrada inválida';
         }
         return num * num;
     },
@@ -29,7 +29,7 @@ const Calculadora = {
     division(num) {
         const validateNum = validate({ num },  CalculadoraConstraint.calculadoraConstraint);      
         if(validateNum !== undefined ){
-            return 'Error';
+            return 'Entrada inválida';
         }
         return num / 4;
     },
@@ -37,7 +37,7 @@ const Calculadora = {
     power(num) {
         const validateNum = validate({ num },  CalculadoraConstraint.calculadoraConstraint);      
         if(validateNum !== undefined ){
-            return 'Error';
+            return 'Entrada inválida';
         }
         return num * num;
     },
