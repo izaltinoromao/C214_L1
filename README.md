@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <h1 align="center">
 
   C214-L1 - Engenharia de software
