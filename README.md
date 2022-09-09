@@ -37,7 +37,7 @@ $ npm start
 This software uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
-=======
+
 # C214_L1
 Repositório destinado para os códigos desenvolvidos no laboratório de Engenharia de software.
 
