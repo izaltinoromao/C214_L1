@@ -44,5 +44,3 @@ Repositório destinado para os códigos desenvolvidos no laboratório de Engenha
 Tecnologias usadas: JavaScript e NodeJS
 
 Atividades: Revião POO, Gerencia de dependencias, Git e GitHub
-
->>>>>>> 95a74ba67de8c9f637fd130a17d0634e466c71d0
