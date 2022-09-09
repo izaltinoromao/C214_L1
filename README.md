@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <h1 align="center">
 
@@ -38,3 +39,12 @@ $ npm start
 This software uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
+=======
+# C214_L1
+Repositório destinado para os códigos desenvolvidos no laboratório de Engenharia de software.
+
+Tecnologias usadas: JavaScript e NodeJS
+
+Atividades: Revião POO, Gerencia de dependencias, Git e GitHub
+
+>>>>>>> 95a74ba67de8c9f637fd130a17d0634e466c71d0
